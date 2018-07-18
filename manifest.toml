@@ -1,0 +1,8 @@
+
+name = "Pharos Development"
+index = "pharos-101"
+
+
+[[book]]
+id = "pharos-101"
+git-http = "https://github.com/jabgibson/pharos101.git"
